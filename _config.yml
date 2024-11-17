@@ -21,8 +21,8 @@
 title: "Learn Chinese in public"
 email: dkhasanshin@gmail.com
 description: "Learn Chinese language from scratch with practical tips and resources"
-baseurl: "/learn-in-public/" # the subpath of your site, e.g. /blog
-url: "https://dkhasanshin.github.io/learn-in-public/" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/learn-in-public" # the subpath of your site, e.g. /blog
+url: "https://dkhasanshin.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: dkhasanshin
 github_username:  dkhasanshin
 
